@@ -1,3 +1,6 @@
+//CORRECCION: NOTA MB 
+//CORRECCION: No hay comentarios en el código porque está IMPECABLE
+
 /*     Parcialito: Coleccionista
  * 	
  *   Se trata de una aplicación que sirve para que una persona, dueña de una galería de elementos coleccionables
@@ -24,7 +27,7 @@
  *   objetos nuevos no predefinidos en el examen.
  * 
  * 	 El código inicial incluye una serie de test programados (no deberían ser modificados) que deben ejecutarse con éxito. 
- * 
+ *
  *   Puede acceder a cualquier material "no humano" de consulta. En especial, la guía de colecciones y closures accesible en el sitio
  *   web de la materia.
  * 
